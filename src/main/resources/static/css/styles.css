@@ -2,6 +2,10 @@ body {
     background-color: pink;
 }
 
+.error {
+color: red;
+}
+
 div {
     margin: auto;
     width: 50%;
